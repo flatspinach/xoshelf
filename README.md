@@ -36,9 +36,18 @@ via GitHub → Vercel integration
 
 📂 Project Structure
 
-xoshelf/ │ ├── public/ ├── src/ │ ├── components/ │ ├── pages/ │ ├──
-assets/ │ └── App.js │ ├── package.json ├── package-lock.json └──
-README.md
+xoshelf/
+│
+├── public/
+├── src/
+│   ├── components/
+│   ├── pages/
+│   ├── assets/
+│   └── App.js
+│
+├── package.json
+├── package-lock.json
+└── README.md
 
 ⚙️ Installation (Run Locally)
 
